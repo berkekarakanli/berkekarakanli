@@ -37,6 +37,5 @@
 ---
 ## 🐍 Contribution Snake
 
-![dark snake](https://raw.githubusercontent.com/berkekarakanli/berkekarakanli/output/github-contribution-grid-snake-dark.svg?v=1#gh-dark-mode-only)
-![light snake](https://raw.githubusercontent.com/berkekarakanli/berkekarakanli/output/github-contribution-grid-snake-light.svg?v=1#gh-light-mode-only)
-
+![dark snake](https://raw.githubusercontent.com/berkekarakanli/berkekarakanli/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![light snake](https://raw.githubusercontent.com/berkekarakanli/berkekarakanli/output/github-contribution-grid-snake-light.svg#gh-light-mode-only)
