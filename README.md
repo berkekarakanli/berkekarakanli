@@ -36,4 +36,5 @@
 
 ---
 
-![snake svg](https://github.com/berkekarakanli/berkekarakanli/blob/output/snake.svg)
+![snake](https://raw.githubusercontent.com/berkekarakanli/berkekarakanli/output/snake-dark.svg?sanitize=true)
+
