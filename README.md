@@ -1,4 +1,6 @@
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=berkekarakanli)
+![Profile views](https://komarev.com/ghpvc/?username=berkekarakanli&color=blue)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Hello+World!;Ben+Berke;Yapay+zeka+%26+Veri+Bilimi;Hoş+Geldiniz!)](https://git.io/typing-svg)
 
 # 🔥 Selam, ben Berke 
 💡 Yapay zeka ve veri bilimi alanında kendimi sürekli geliştiriyorum  
@@ -42,6 +44,11 @@
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ---
+
+## 📂 Öne Çıkan Projeler
+- [📚 Kütüphane Yönetim Sistemi](https://github.com/berkekarakanli/Kutuphane-Yonetim-Sistem) → Konsol tabanlı kütüphane uygulaması  
+- [🌍 Deprem Analizi](https://github.com/berkekarakanli/Deprem-Analizi) → Depremleri veri bilimi ve ML ile analiz etme  
+- [🤖 Makine Öğrenmesi Modelleri](https://github.com/berkekarakanli/Machine-Learning-Models) → Klasik ML algoritmaları uygulamaları  
 
 ---
 
