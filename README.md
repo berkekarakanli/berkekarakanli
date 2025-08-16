@@ -21,26 +21,26 @@
 
 ---
 
-## 🚀 Kullandığım Teknolojiler
+🖥 Yetkinliklerim
+⚫ Python Programlama
 
-### 📌 Programlama Dilleri
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50" alt="C"/>
+⚫ Veri Bilimi
 
-### 🤖 Yapay Zeka & Makine Öğrenmesi
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="50" alt="NumPy"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50" alt="Pandas"/>
+⚫ Makine Öğrenimi
 
-</p>
+⚫ Derin Öğrenme
 
-### ⚙️ Araçlar & Platformlar
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" alt="Git"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50" alt="GitHub"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50" alt="VSCode"/>
-</p>
+⚫ Doğal Dil İşleme
+
+⚫ Bilgisayarla Görme
+
+⚫ Yapay Zeka
+
+⚫ Git ve GitHub
+
+⚫ API Kullanımı ve Entegrasyon
+
+⚫ Veritabanı Yönetimi (SQLite, JSON)
 
 
 ---
