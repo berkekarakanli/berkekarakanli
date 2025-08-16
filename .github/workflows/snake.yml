@@ -18,12 +18,14 @@ jobs:
           persist-credentials: false
           fetch-depth: 0
 
-      - name: Generate Snake (dark, transparent)
+      - name: Generate Snake (dark, transparent bg, PURPLE snake)
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
+          # ŞEFFAF ARKAPLAN: color_bg=%2300000000  (RGBA: siyah + alpha=0)
+          # MOR YILAN: color_snake=%238B5CF6     (8B5CF6 = vivid mor)
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg?color_snake=%238B5CF6&color_bg=%2300000000
+            dist/github-contribution-grid-snake-dark.svg?color_bg=%2300000000&color_snake=%238B5CF6
 
       - name: Push Snake to GitHub
         uses: crazy-max/ghaction-github-pages@v3
