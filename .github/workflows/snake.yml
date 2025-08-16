@@ -12,16 +12,11 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3  # Bu satırı ekledim, repo'yu checkout etmek için gerekli
-
-      - name: Generate snake
-        uses: Platane/snk/svg-only@v3
+      - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: dist/github-contribution-grid-snake.svg  # Sadece dosya adı, parametreleri kaldırdım
-          color_snake: '#9d4edd'    # Mor renk için
-          color_dots: '#00000000'    # Tam şeffaf arkaplan için (8 haneli hex kodu)
-
+          outputs: |
+            dist/github-contribution-grid-snake-dark.svg?color_snake=%238B5CF6&color_bg=transparent
       - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
