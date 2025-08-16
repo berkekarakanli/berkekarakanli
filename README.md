@@ -1,6 +1,8 @@
 ![Profile views](https://komarev.com/ghpvc/?username=berkekarakanli&color=blue)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Hello+World!;Ben+Berke;Yapay+zeka+%26+Veri+Bilimi;Hoş+Geldiniz!)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&background=000000&center=true&vCenter=true&width=600&lines=Hello+World!;Ben+Berke;Yapay+Zeka+%26+Veri+Bilimi;Hoş+Geldiniz!"/>
+</p>
 
 # 🔥 Selam, ben Berke 
 💡 Yapay zeka ve veri bilimi alanında kendimi sürekli geliştiriyorum  
