@@ -12,7 +12,7 @@
 
 ---
 
-# 🔥 Merhaba 👋, ben Berke KARAKANLI  
+# 🔥 Merhaba 👋 Ben Berke KARAKANLI  
 
 💡 Veri bilimi, makine öğrenmesi ve yazılım geliştirme ile ilgileniyorum.  
 📊 Kaggle ve Medium üzerinden içerikler paylaşıyorum.  
