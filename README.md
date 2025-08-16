@@ -1,3 +1,5 @@
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=kullaniciadi)
+
 # 🔥 Selam, ben Berke 
 💡 Yapay zeka ve veri bilimi alanında kendimi sürekli geliştiriyorum  
 🐍 Python ekosisteminde veri analizi, makine öğrenmesi ve model geliştirme deneyimine sahibim  
