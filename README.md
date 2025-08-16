@@ -37,10 +37,3 @@
 ---
 
 ![snake](https://raw.githubusercontent.com/berkekarakanli/berkekarakanli/output/snake-dark.svg?sanitize=true)
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/berkekarakanli/berkekarakanli/output/snake-dark.svg?sanitize=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/berkekarakanli/berkekarakanli/output/snake-light.svg?sanitize=true" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/berkekarakanli/berkekarakanli/output/snake-dark.svg?sanitize=true" />
-</picture>
-
-
