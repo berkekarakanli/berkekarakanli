@@ -37,9 +37,8 @@
 ---
 ## 🐍 Contribution Snake
 
-## 🐍 Contribution Snake
-
 ![snake](https://raw.githubusercontent.com/berkekarakanli/berkekarakanli/output/github-contribution-grid-snake-dark.svg)
+
 
 
 
