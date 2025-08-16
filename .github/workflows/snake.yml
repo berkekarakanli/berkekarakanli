@@ -9,15 +9,20 @@ permissions:
   contents: write
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk/svg-only@v3
+      - uses: actions/checkout@v3
+
+      - name: Generate snake
+        uses: platane/snk@master
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake-dark.svg?color_snake=%238B5CF6&color_bg=transparent
-      - uses: crazy-max/ghaction-github-pages@v3
+          svg_out_path: dist/github-contribution-grid-snake.svg
+          colors:snake:  dots: "#00000000" 
+
+      - name: Push to GitHub
+        uses: crazy-max/ghaction-github-pages@v2
         with:
           target_branch: output
           build_dir: dist
