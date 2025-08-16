@@ -1,8 +1,8 @@
 name: generate-snake
 
 on:
-  schedule: # her gün çalışacak
-    - cron: "0 0 * * *"
+  schedule:
+    - cron: "0 0 * * *"   # her gün
   workflow_dispatch:
 
 jobs:
@@ -15,11 +15,13 @@ jobs:
           persist-credentials: false
           fetch-depth: 0
 
-      - name: Generate Snake
+      - name: Generate Snake (dark + light)
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: dist/snake.svg
+          outputs: |
+            dist/snake-dark.svg?color_bg=%23000000&color_snake=%23000000&color_dots=%23008400,%2300a000,%2300c853,%2322c55e,%2334d399
+            dist/snake-light.svg?color_bg=%23ffffff&color_snake=%23000000&color_dots=%23008400,%2300a000,%2300c853,%2322c55e,%2334d399
 
       - name: Push Snake to GitHub
         uses: crazy-max/ghaction-github-pages@v3
