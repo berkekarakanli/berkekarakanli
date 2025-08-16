@@ -42,4 +42,3 @@
   <img alt="snake animation" src="https://raw.githubusercontent.com/berkekarakanli/berkekarakanli/output/github-contribution-grid-snake.svg" />
 </picture>
 
-
