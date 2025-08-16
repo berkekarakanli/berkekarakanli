@@ -36,6 +36,6 @@
 
 ---
 
-## 🐍 Commit Yılanı Animasyonu
-![snake gif](https://github.com/berkekarakanli/berkekarakanli/blob/output/snake.svg)
+![snake svg](https://github.com/berkekarakanli/berkekarakanli/blob/output/snake.svg)
+
 
