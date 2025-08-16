@@ -1,10 +1,11 @@
-<!-- Profil Sayaçları ve Sosyal Medya -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=berkekarakanli&label=Visitors&color=green&style=flat" alt="visitor badge"/>
-  <a href="https://twitter.com/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/berkekarakanli/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  
+  <a href="https://www.linkedin.com/in/berkekarakanlii/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="https://instagram.com/berkekarakanli"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
   <a href="mailto:berkekarakanli6@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.kaggle.com/berkekarakanl"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white"/></a>
+  <a href="https://medium.com/@berkekarakanli"><img src="https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white"/></a>
 </p>
 
 ---
