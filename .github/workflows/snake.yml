@@ -15,15 +15,14 @@ jobs:
           persist-credentials: false
           fetch-depth: 0
 
-      - name: Generate Snake (dark + light)
+      - name: Generate Snake (default style, same as CagatayAkkas)
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            # Dark tema: siyah arka plan, mor yılan, koyu→açık yeşil kutular
-            dist/snake-dark.svg?color_bg=%23000000&color_snake=%238B5CF6&color_dots=%230e4429,%23006d32,%2326a641,%2339d353
-            # Light tema: beyaz arka plan, mor yılan, açık→koyu yeşil kutular
-            dist/snake-light.svg?color_bg=%23ffffff&color_snake=%238B5CF6&color_dots=%239be9a8,%2340c463,%2330a14e,%23216e39
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg
+            dist/github-contribution-grid-snake-light.svg
 
       - name: Push Snake to GitHub
         uses: crazy-max/ghaction-github-pages@v3
