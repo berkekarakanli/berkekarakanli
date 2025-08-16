@@ -22,6 +22,7 @@
 ---
 
 🖥 Yetkinliklerim
+
 ⚫ Python Programlama
 
 ⚫ Veri Bilimi
@@ -32,15 +33,7 @@
 
 ⚫ Doğal Dil İşleme
 
-⚫ Bilgisayarla Görme
-
 ⚫ Yapay Zeka
-
-⚫ Git ve GitHub
-
-⚫ API Kullanımı ve Entegrasyon
-
-⚫ Veritabanı Yönetimi (SQLite, JSON)
 
 
 ---
