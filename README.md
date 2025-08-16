@@ -43,11 +43,6 @@
 
 ---
 
-## 📂 Öne Çıkan Projeler
-- [📚 Kütüphane Yönetim Sistemi](https://github.com/berkekarakanli/Kutuphane-Yonetim-Sistem) → Konsol tabanlı kütüphane uygulaması  
-- [🌍 Deprem Analizi](https://github.com/berkekarakanli/Deprem-Analizi) → Depremleri veri bilimi ve ML ile analiz etme  
-- [🤖 Makine Öğrenmesi Modelleri](https://github.com/berkekarakanli/Machine-Learning-Models) → Klasik ML algoritmaları uygulamaları  
-
 ---
 
 ## 📊 GitHub İstatistikleri
