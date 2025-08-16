@@ -36,6 +36,4 @@
 
 ---
 
-
-## 🐍 Contribution Snake
-![snake](https://raw.githubusercontent.com/berkekarakanli/berkekarakanli/output/snake-dark.svg?sanitize=true)
+![snake svg](https://github.com/berkekarakanli/berkekarakanli/blob/output/snake.svg)
