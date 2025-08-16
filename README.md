@@ -2,10 +2,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=berkekarakanli&label=Visitors&color=green&style=flat" alt="visitor badge"/>
 
-  <!-- Sosyal medya ve platformlar -->
-  <a href="https://x.com/berkekarakanli">
-    <img src="https://img.shields.io/badge/X(Twitter)-1DA1F2?style=flat&logo=x&logoColor=white" alt="X"/>
-  </a>
   <a href="https://www.linkedin.com/in/berkekarakanlii/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
