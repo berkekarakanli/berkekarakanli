@@ -36,12 +36,9 @@
 
 ---
 
-![snake svg](https://github.com/berkekarakanli/berkekarakanli/blob/output/snake.svg)
-
+## 🐍 Contribution Snake
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/berkekarakanli/berkekarakanli/output/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/berkekarakanli/berkekarakanli/output/snake-light.svg" />
   <img alt="snake animation" src="https://raw.githubusercontent.com/berkekarakanli/berkekarakanli/output/snake-dark.svg" />
 </picture>
-
-
