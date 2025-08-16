@@ -2,20 +2,19 @@ name: generate-snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *"   # her gün
   workflow_dispatch:
+
+# (opsiyonel ama iyi pratik) push için yazma izni
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v3
-        with:
-          persist-credentials: false
-          fetch-depth: 0
-
-      - name: Generate Snake (default theme colors)
+      - name: Generate Snake (defaults)
+      # svg-only kullanıyoruz; renk/palette parametresi yok
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -24,7 +23,7 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg
             dist/github-contribution-grid-snake-light.svg
 
-      - name: Push Snake to GitHub
+      - name: Push Snake to GitHub (output branch)
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
