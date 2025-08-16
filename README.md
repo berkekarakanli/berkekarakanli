@@ -7,7 +7,7 @@
   <a href="https://instagram.com/berkekarakanli"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
   <a href="mailto:berkekarakanli6@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://www.kaggle.com/berkekarakanl"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white"/></a>
-  <a href="https://medium.com/@berkekarakanli"><img src="https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white"/></a>
+  <a href="https://medium.com/@berkekarakanli6"><img src="https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white"/></a>
 </p>
 
 ---
